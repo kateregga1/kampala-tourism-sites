@@ -1,17 +1,18 @@
-# Leaflet Maps with Google Sheets
+# Interaactive Map of Cultural Heritage Sites and Monuments in Kampala
 Customize Leaflet maps with a linked Google Sheets template or CSV files and GeoJSON data on GitHub
 
-![Preview](preview.jpg)
+![image](https://github.com/kateregga1/kampala-tourism-sites/assets/1929397/9fcca697-b964-4425-a91d-674fc35dc901)
+
 
 ## Live links (replace with your own)
-- Leaflet Map https://github.com/kateregga1/kampala-tourism-sites
-- Google Sheets template https://docs.google.com/spreadsheets/d/1iORXsfzwtWgkcH_mDixNBAhoXVpXub1yGAGAKmwwk4U/edit#gid=0
+- Leaflet Map https://kateregga1.github.io/kampala-tourism-sites/
+- Google Sheet https://docs.google.com/spreadsheets/d/1iORXsfzwtWgkcH_mDixNBAhoXVpXub1yGAGAKmwwk4U/edit#gid=0
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
 
 #### Geocode your address data with Google Sheets add-on
-To geocode (find latitude and longitude coordinates), we recommend installing the free [Geocoding by SmartMonkey add-on for Google Sheets](https://gsuite.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312). Insert your addresses in place of the samples in the Geocoding Details tab, then use Add-Ons > Geocoding > Geocode Details menu. Learn more in *Hands-On Data Visualization* https://handsondataviz.org/geocode.html
+To geocode (find the latitude and longitude coordinates), we recommend installing the free [Geocoding by SmartMonkey add-on for Google Sheets](https://gsuite.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312). Insert your addresses in place of the samples in the Geocoding Details tab, then use Add-Ons > Geocoding > Geocode Details menu. Learn more in *Hands-On Data Visualization* https://handsondataviz.org/geocode.html
 
 ![Geocoding](geocode.png)
 
