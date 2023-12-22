@@ -1,23 +1,19 @@
-# Interaactive Map of Cultural Heritage Sites and Monuments in Kampala
+# Interactive Map of Cultural Heritage Sites and Monuments in Kampala
 Customize Leaflet maps with a linked Google Sheets template or CSV files and GeoJSON data on GitHub
 
 ![image](https://github.com/kateregga1/kampala-tourism-sites/assets/1929397/9fcca697-b964-4425-a91d-674fc35dc901)
 
 
-## Live links (replace with your own)
+## Live links
 - Leaflet Map https://kateregga1.github.io/kampala-tourism-sites/
-- Google Sheet https://docs.google.com/spreadsheets/d/1iORXsfzwtWgkcH_mDixNBAhoXVpXub1yGAGAKmwwk4U/edit#gid=0
-
-## Create your own
-See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
+- Data Source https://docs.google.com/spreadsheets/d/1iORXsfzwtWgkcH_mDixNBAhoXVpXub1yGAGAKmwwk4U/edit#gid=0
 
 ## Credits (and licenses)
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT. Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause)
 
-See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
+Step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
 
 We use [Google Sheets API version 4](https://developers.google.com/sheets/api), with these open-source components:
-
 - Leaflet v1.7.1 https://leafletjs.com (BSD-2-Clause)
 - jQuery v3.5.1 https://code.jquery.com (MIT)
 - PapaParse v5.3.0 to parse CSV with JavaScript (MIT)
