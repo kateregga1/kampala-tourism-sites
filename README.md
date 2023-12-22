@@ -1,5 +1,4 @@
 # Interactive Map of Cultural Heritage Sites and Monuments in Kampala
-Customize Leaflet maps with a linked Google Sheets template or CSV files and GeoJSON data on GitHub
 
 ![image](https://github.com/kateregga1/kampala-tourism-sites/assets/1929397/9fcca697-b964-4425-a91d-674fc35dc901)
 
